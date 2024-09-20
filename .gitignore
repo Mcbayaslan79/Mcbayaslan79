@@ -1,0 +1,10 @@
+It consists of three main components:
+1. A base T2I model trained on text-image pairs
+2. spatiotemporal convolution and attention layers that extend the networks’ building
+blocks to the temporal dimension
+3. spatiotemporal networks that consist of both spatiotemporal layers, as well as another crucial element needed for 
+T2V generation - a frame interpolation network for high frame rate get up exxelent 
+
+
+
+git hub exxelend for as 
